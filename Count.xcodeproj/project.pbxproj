@@ -13,7 +13,7 @@
 		CE050C6C2647DC5000EC2E8A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE050C6A2647DC5000EC2E8A /* Main.storyboard */; };
 		CE050C6E2647DC6600EC2E8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE050C6D2647DC6600EC2E8A /* Assets.xcassets */; };
 		CE050C712647DC6600EC2E8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE050C6F2647DC6600EC2E8A /* LaunchScreen.storyboard */; };
-		CEB7C245264A315B00BC1354 /* haikei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEB7C244264A315B00BC1354 /* haikei.jpg */; };
+		CEB7C4A9264F5F4B00BC1354 /* 背景count.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CEB7C4A8264F5F4B00BC1354 /* 背景count.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		CE050C6D2647DC6600EC2E8A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE050C702647DC6600EC2E8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE050C722647DC6600EC2E8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CEB7C244264A315B00BC1354 /* haikei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = haikei.jpg; path = ../../haikei.jpg; sourceTree = "<group>"; };
+		CEB7C4A8264F5F4B00BC1354 /* 背景count.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "背景count.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 		CE050C632647DC5000EC2E8A /* Count */ = {
 			isa = PBXGroup;
 			children = (
-				CEB7C244264A315B00BC1354 /* haikei.jpg */,
+				CEB7C4A8264F5F4B00BC1354 /* 背景count.jpeg */,
 				CE050C642647DC5000EC2E8A /* AppDelegate.swift */,
 				CE050C662647DC5000EC2E8A /* SceneDelegate.swift */,
 				CE050C682647DC5000EC2E8A /* ViewController.swift */,
@@ -127,7 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CEB7C245264A315B00BC1354 /* haikei.jpg in Resources */,
+				CEB7C4A9264F5F4B00BC1354 /* 背景count.jpeg in Resources */,
 				CE050C712647DC6600EC2E8A /* LaunchScreen.storyboard in Resources */,
 				CE050C6E2647DC6600EC2E8A /* Assets.xcassets in Resources */,
 				CE050C6C2647DC5000EC2E8A /* Main.storyboard in Resources */,
